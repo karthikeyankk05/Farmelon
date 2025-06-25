@@ -1,6 +1,6 @@
 # farmelonn
 
-A new Flutter project.
+Farmelon is a smart agriculture project that leverages machine learning to detect pests and diseases in watermelon crops and uses IoT-based sensors to monitor overall plant health. The goal is to help farmers make informed decisions, improve yield, and reduce crop loss through real-time insights and automated monitoring.
 
 ## Getting Started
 
